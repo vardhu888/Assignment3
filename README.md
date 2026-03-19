@@ -161,14 +161,6 @@
 
 <hr>
 
-<h2>🧑‍💻 Author</h2>
-<p>This project is created for learning and experimenting with pathfinding algorithms.</p>
-
-<hr>
-
-<h2>📜 License</h2>
-<p>Free for educational use.</p>
-
 </div>
 
 </body>
